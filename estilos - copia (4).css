@@ -1,0 +1,17 @@
+body
+{
+	background: yellow;
+	font-family: Arial;
+	font-size: 30px;
+	margin: 0
+}
+header
+{
+	background: #FBFDFF;
+	margin:0;
+	padding:5em;
+}
+
+footer{
+	color: red;
+}
